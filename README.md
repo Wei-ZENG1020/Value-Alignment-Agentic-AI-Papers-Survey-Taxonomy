@@ -8,7 +8,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ```bibtex
 @article{AgenticAIValueAlignment,
   title={Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives},
-  author={Zeng, Wei and Zhu, Hengshu and Qin, Chuan and Wu, Han and Cheng, Yihang and Zhang, Sirui and Jin, Xiaowei and Shen, Yinuo and Wang, Zhenxing and Zhong, Feimin and others},
+  author={Zeng, Wei and Zhu, Hengshu and Qin, Chuan and Wu, Han and Cheng, Yihang and Zhang, Sirui and Jin, Xiaowei and Shen, Yinuo and Wang, Zhenxing and Zhong, Feimin and Xiong, Hui},
   journal={arXiv preprint arXiv:2506.09656},
   year={2025}
 }
