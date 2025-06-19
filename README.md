@@ -1,7 +1,7 @@
 # Value-Alignment-Agentic-AI-Papers-Survey-Taxonomy
 This repository is created to support the survey paper [Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives](https://arxiv.org/abs/2506.09656), by collecting and categorizing relevant research papers and datasets on value alignment in agentic AI systems.
 
-We welcome contributions, discussions, and issues related to value alignment for agentic AI. If you have any questions, feel free to contact Zengwei_hnu@163.com. (We recommend cc'ing zhuhengshu@gmail.com and chuanqin0426@gmail.com as a precaution in case of any delivery issues.)
+We welcome contributions, discussions, and issues related to value alignment for agentic AI. If you have any questions, feel free to contact Zengwei_hnu@163.com. (We recommend cc'ing zhuhengshu@gmail.com as a precaution in case of any delivery issues.)
 
 We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) paper and this repository regularly. If you find our survey useful for your research, please cite the following paper:
 
