@@ -44,7 +44,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 
 ### Agent System Application
-[!IMPORTANT]
+
 ### Values Alignment Evaluation for Agent Systems
 ### Methodologies for Agent Value Alignment
 
