@@ -16,6 +16,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 
 ## Bookmarks
+- [Overview of Our Survey](#overview-of-our-survey)
 - [Related Survey](#related-survey)
 - [The Principles of Values Alignment](#the-principles-of-values-alignment)
   - [Macro Level](#the-macro-level-principles-of-values-alignment)
@@ -29,6 +30,8 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 
 ## Papers
+### Overview of Our Survey
+
 ### Related Survey
 | Time | Title | Keywords | Venue | Paper |
 |----------|----------|----------|----------|----------|
@@ -39,12 +42,30 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ### The Principles of Values Alignment
 ![](multi-level-value-alignment-principles.png)
 #### The Macro Level Principles of Values Alignment
+| Time  | Title | Keywords | Venue | Paper |
+| :---: | :---: | :------: | :---: | :---: |
+| Row 1 | Data  |   Data   | Data  | Data  |
+| Row 2 | Data  |   Data   | Data  | Data  |
+| Row 3 | Data  |   Data   | Data  | Data  |
 #### The Meso Level Principles of Values Alignment
+| Time  | Title | Keywords | Venue | Paper |
+| :---: | :---: | :------: | :---: | :---: |
+| Row 1 | Data  |   Data   | Data  | Data  |
+| Row 2 | Data  |   Data   | Data  | Data  |
+| Row 3 | Data  |   Data   | Data  | Data  |
 #### The Micro Level Principles of Values Alignment
-
+| Time  | Title | Keywords | Venue | Paper |
+| :---: | :---: | :------: | :---: | :---: |
+| Row 1 | Data  |   Data   | Data  | Data  |
+| Row 2 | Data  |   Data   | Data  | Data  |
+| Row 3 | Data  |   Data   | Data  | Data  |
 
 ### Agent System Application
-
+| Time  | Title | Keywords | Venue | Paper |
+| :---: | :---: | :------: | :---: | :---: |
+| Row 1 | Data  |   Data   | Data  | Data  |
+| Row 2 | Data  |   Data   | Data  | Data  |
+| Row 3 | Data  |   Data   | Data  | Data  |
 ### Values Alignment Evaluation for Agent Systems
 ### Methodologies for Agent Value Alignment
 
@@ -52,3 +73,4 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ## Datasets
 
 ## Future Directions
+
