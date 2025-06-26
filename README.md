@@ -72,7 +72,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 ## Datasets
 
-|Time|Dataset|Keywords|Level|Paper|Venue|
+|Time|Dataset|Paper|Keywords|Level|Venue|
 | :---: | :---: | :------: | :---: | :---: | :---: |
 |2021|BBQ(Bias Benchmark for QA)|BBQ: A Hand-Built Bias Benchmark for Question Answering|Justice & Fairness|Macro Level|arXiv preprint arXiv:2110.08193|
 |2023|BeaverTails|Beavertails: Towards improved safety alignment of llm via a human-preference dataset|Harmlessness, Justice & Fairness, Privacy, Beneficence, Responsibility|Macro Level|Advances in Neural Information Processing Systems|
