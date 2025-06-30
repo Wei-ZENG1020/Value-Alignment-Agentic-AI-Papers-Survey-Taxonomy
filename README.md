@@ -33,11 +33,20 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ### Overview of Our Survey
 
 ### Related Survey
-| Time | Title | Keywords | Venue | Paper |
-|----------|----------|----------|----------|----------|
-| Row 1    | Data     | Data     | Data     | Data     |
-| Row 2    | Data     | Data     | Data     | Data     |
-| Row 32    | Data     | Data     | Data     | Data     |
+| Time |                                                                          Title                                                                         |                                                     Keywords                                                    |                Venue               |
+|:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:----------------------------------:|
+| 2025 |          [The rise and potential of large language model based agents: a survey](https://link.springer.com/article/10.1007/s11432-024-4222-0)          |          Communication structures, practical applications and societal systems etc. of LLM-based agents         | Science China Information Sciences |
+| 2025 |                           [A Survey on Alignment for Large Language Model Agents](https://openreview.net/forum?id=gkxt5kZS84)                          |          Value alignment objectives, datasets, techniques, and evaluation methods for LLM-based agents          |             Openreview             |
+| 2025 |                               [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)                               |        Conceptual framework, interaction mechanisms, and application overview of LLM-based agent systems        |                Arxiv               |
+| 2024 |                    [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680)                    |           Capabilities, framework Analysis, and ppplication overview of LLM-based multi-agent systems           |                Arxiv               |
+| 2024 |                [A survey on large language model based autonomous agents](https://link.springer.com/article/10.1007/s11704-024-40231-1)                |        Constituent modules, application overview, and evaluation methods of LLM-based autonomous agents:        |    Frontiers of Computer Science   |
+| 2023 |                                        [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)                                        |           Motivations and objectives, alignment methods, and assurance and governance of AI alignment           |                Arxiv               |
+| 2023 |              [From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models](https://arxiv.org/abs/2308.12014)             |                              Definition and evaluation of LLM alignment objectives                              |                Arxiv               |
+| 2023 |                                      [Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)                                      |                         Definition, categories, testing, and evaluation of LLM alignment                        |                Arxiv               |
+| 2023 |                                 [Unpacking the Ethical Value Alignment in Big Models](https://arxiv.org/abs/2310.17551)                                |                  Definition, normative principles, and technical methods of LLM value alignment                 |                Arxiv               |
+| 2023 |              [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment](https://arxiv.org/abs/2308.05374)              |                                    Alignment objectives for trustworthy LLMs                                    |                Arxiv               |
+| 2024 | [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/abs/2406.09264) |               Challenges, fundamental definitions, and alignment frameworks of LLM value alignment              |                Arxiv               |
+| 2025 |                                                                                                                                                        | Necessity, conceptual definitions, theoretical approaches, challenges and future outlook of LLM value alignment |                                    |
 
 ### The Principles of Values Alignment
 ![](multi-level-value-alignment-principles.png)
