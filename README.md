@@ -33,7 +33,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 ## Papers
 ### Overview of Our Survey
-
+![](overview.png)
 ### Related Survey
 | Time |                                                                          Title                                                                         |                                                     Keywords                                                    |                Venue               |
 |:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:----------------------------------:|
@@ -49,6 +49,8 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 | 2023 |              [Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment](https://arxiv.org/abs/2308.05374)              |                                    Alignment objectives for trustworthy LLMs                                    |                arXiv               |
 | 2024 | [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/abs/2406.09264) |               Challenges, fundamental definitions, and alignment frameworks of LLM value alignment              |                arXiv               |
 | 2025 | [Value alignment in ai large models: Current status, key issues, and normative strategies](https://kns.cnki.net/kcms2/article/abstract?v=HlDkjiDVjGsHl2FZ14zA_d2mQ2rjb62pPbB9UjCNzTbIgKKQK3LMWVnzDsokMfxdUPIjnTpDrLXTZ-Skr4B2hCjs0l6C5G8LKhp1QlSGu9h2k8nSuFpm1YO1vzdHtEgMsIEC4E6QTlLKpm6rIDINjQux-FFwhn1btD2-fJjvsHK2jt94X3BRoA==&uniplatform=NZKPT&language=CHS)                                                                                                                                                       | Necessity, conceptual definitions, theoretical approaches, challenges and future outlook of LLM value alignment |       CNKI                             |
+
+![](takeaways-of-comparisons-of-representative-survey-papers.png)
 
 ### The Principles of Values Alignment
 ![](multi-level-value-alignment-principles.png)
@@ -473,6 +475,8 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
     </tr>
   </tbody>
 </table>
+
+![](takeaways-of-value-principles.png)
 
 ### Agent System Application
 #### High Generaliability
@@ -1265,6 +1269,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
     </tr>
 </tbody></table>
 
+![](takeaways-of-application-scenarios.png)
 
 
 ### Values Alignment Evaluation for Agent Systems
@@ -1316,5 +1321,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 | 2018 | [WinoBias](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino) | [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://arxiv.org/abs/1804.06876) | Solidarity | Macro Level | arXiv preprint arXiv:1804.06876 |
 | 2018 | [WinoGender](https://github.com/rudinger/winogender-schemas) | [Gender Bias in Coreference Resolution](https://arxiv.org/abs/1804.09301) | Justice & Fairness | Macro Level | arXiv preprint arXiv:1804.09301 |
 
+
 ## Future Directions
 
+![](takeaways-of-future-directions.png)
