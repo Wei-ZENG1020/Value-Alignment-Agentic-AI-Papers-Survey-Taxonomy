@@ -51,16 +51,6 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ### The Principles of Values Alignment
 ![](multi-level-value-alignment-principles.png)
 #### The Macro Level Principles of Values Alignment
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hq1h{border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg"><tbody>
   <tr>
     <td class="tg-9wq8">Sub-Level</td>
@@ -294,50 +284,144 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
   </tr>
 </tbody></table>
 
-|     Sub-Level     |    Sub-sub-Level   |                                                                                                                 Title                                                                                                                | Time |                                                                Venue                                                                |
-|:-----------------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-|  Moral Foundation |    Beneficience    |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                     [A unified framework of five principlesfor ai in society](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45)                                                    | 2022 |                             Machine learning and the city: Applications in architecture and urban design                            |
-|                   | Justice & Fairness |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                    [Ethics of ai: Asystematic literature review of principles and challenges](https://dl.acm.org/doi/abs/10.1145/3530019.3531329)                                                    | 2022 |                Proceedings of the 26th international conference on evaluation and assessment in software engineering                |
-|                   |                    |                                                     [A unified framework of five principlesfor ai in society](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45)                                                    | 2022 |                             Machine learning and the city: Applications in architecture and urban design                            |
-|                   |                    |           [Towards realistic evaluation of cultural value alignment in largelanguage models: Diversity enhancement for survey responsesimulation](https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X)           | 2025 |                                                 Information Processing & Management                                                 |
-|                   |                    |                                                            [Achieving fairness in multi-agentmdp using reinforcement learning](https://openreview.net/forum?id=yoVq2BGQdP)                                                           | 2023 |                                   The Twelfth International Conference on Learning Representations                                  |
-|                   |                    |       [Beavertails: Towards improved safetyalignment of llm via a human-preference dataset](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html)       | 2023 |                                          Advances in Neural Information Processing Systems                                          |
-|                   |       Honesty      |                                                      [From instructionsto intrinsic human values - A survey of alignment goals for bigmodels](https://arxiv.org/abs/2308.12014)                                                      | 2023 |                                                                arXiv                                                                |
-|                   |                    |                                                     [Improving factuality and reasoning in language models throughmultiagent debate](https://openreview.net/forum?id=zj7YuTE4t8)                                                     | 2023 |                                       Forty-first International Conference on Machine Learning                                      |
-|                   |   Responsibility   |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                    [Ethics of ai: Asystematic literature review of principles and challenges](https://dl.acm.org/doi/abs/10.1145/3530019.3531329)                                                    | 2022 |                Proceedings of the 26th international conference on evaluation and assessment in software engineering                |
-|                   |       Virtue       |                                                          [Dailydilemmas: Revealing valuepreferences of llms with quandaries of daily life](https://arxiv.org/abs/2410.02683)                                                         | 2025 |                      The Thirteenth International Conference on Learning Representations, ICLR 2025, Singapore                      |
-|                   |                    |                                                   [Value compass leaderboard: A platformfor fundamental and validated evaluation of llms values](https://arxiv.org/abs/2501.07071)                                                   | 2025 |                                                                arXiv                                                                |
-|                   |       Dignity      |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                     Shaping the ethical governance path of artificial intelligence in the chinese context—based on value- instrument rationality                                                     | 2025 |                                                    Studies in Science of Science                                                    |
-| Rights Protection | Freedom & Autonomy |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                     [A unified framework of five principlesfor ai in society](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45)                                                    | 2022 |                             Machine learning and the city: Applications in architecture and urban design                            |
-|                   |                    |                                                     Shaping the ethical governance path of artificial intelligence in the chinese context—based on value- instrument rationality                                                     | 2025 |                                                    Studies in Science of Science                                                    |
-|                   |       Privacy      |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                    [Ethics of ai: Asystematic literature review of principles and challenges](https://dl.acm.org/doi/abs/10.1145/3530019.3531329)                                                    | 2022 |                Proceedings of the 26th international conference on evaluation and assessment in software engineering                |
-|                   |                    |                                                         [Hydragan: A cooperative agentmodel for multi-objective data generation](https://dl.acm.org/doi/full/10.1145/3653982)                                                        | 2024 |                                                  ACM Trans. Intell. Syst. Technol.                                                  |
-|                   |                    |                                                        [Empowering users in digitalprivacy management through interactive llm-based agents](https://arxiv.org/abs/2410.11906)                                                        | 2025 |                      The Thirteenth International Conference on Learning Representations, ICLR 2025, Singapore                      |
-|   Sustainability  |     Solidarity     |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |   Sustainability   |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |             [Cooperate or collapse: Emergence ofsustainable cooperation in a society of LLM agents](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html)            | 2024 | Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems 2024, NeurIPS 2024 |
-| System Governance |      Harmless      |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                     [A unified framework of five principlesfor ai in society](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45)                                                    | 2022 |                             Machine learning and the city: Applications in architecture and urban design                            |
-|                   |                    |                                                      [From instructionsto intrinsic human values - A survey of alignment goals for bigmodels](https://arxiv.org/abs/2308.12014)                                                      | 2023 |                                                                arXiv                                                                |
-|                   |                    |                                                             [Training socially aligned language models on simulatedsocial interactions](https://arxiv.org/abs/2305.16960)                                                            | 2024 |                             The Twelfth International Conference on Learning Representations, ICLR 2024                             |
-|                   |                    | [Safesora: Towards safety alignment of text2video generationvia a human preference dataset](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html) | 2024 |                                          Advances in Neural Information Processing Systems                                          |
-|                   |        Trust       |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |           [Towards realistic evaluation of cultural value alignment in largelanguage models: Diversity enhancement for survey responsesimulation](https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X)           | 2025 |                                                 Information Processing & Management                                                 |
-|                   |    Transparency    |                                                                   [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                                   | 2019 |                                                     Nature machine intelligence                                                     |
-|                   |                    |                                                     [A unified framework of five principlesfor ai in society](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45)                                                    | 2022 |                             Machine learning and the city: Applications in architecture and urban design                            |
-|                   |                    |                                                    [Ethics of ai: Asystematic literature review of principles and challenges](https://dl.acm.org/doi/abs/10.1145/3530019.3531329)                                                    | 2022 |                Proceedings of the 26th international conference on evaluation and assessment in software engineering                |
-|                   |                    |                                         [ICA-CRMAS: intelligentcontext-awareness approach for citation recommendation basedon multi-agent system](https://dl.acm.org/doi/abs/10.1145/3680287)                                        | 2024 |                                                     ACM Trans. Manag. Inf. Syst.                                                    |
-|                   |                    |                                                                      [A multimodalautomated interpretability agent](https://openreview.net/forum?id=mDw42ZanmE)                                                                      | 2024 |                                 Forty-first International Conference on Machine Learning, ICML 2024                                 |
-|                   |                    |                                                           [Biodiscoveryagent: Anai agent for designing genetic perturbation experiments](https://arxiv.org/abs/2405.17631)                                                           | 2024 |                                                                arXiv                                                                |
-|                   |     Usefulness     |                                                      [From instructionsto intrinsic human values - A survey of alignment goals for bigmodels](https://arxiv.org/abs/2308.12014)                                                      | 2023 |                                                                arXiv                                                                |
-|                   |                    |                                                          [Dailydilemmas: Revealing valuepreferences of llms with quandaries of daily life](https://arxiv.org/abs/2410.02683)                                                         | 2025 |                            The Thirteenth International Conference on Learning Representations, ICLR 2025                           |
 #### The Meso Level Principles of Values Alignment
+<table class="tg"><tbody>
+  <tr>
+    <td class="tg-nrix">Sub-Level</td>
+    <td class="tg-nrix">Sub-sub-level</td>
+    <td class="tg-nrix">Title</td>
+    <td class="tg-nrix">Time</td>
+    <td class="tg-nrix">Venue</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="11">National Level</td>
+    <td class="tg-nrix" rowspan="4">The United States</td>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">alignment in big models</a></td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+    <td class="tg-nrix">2019</td>
+    <td class="tg-nrix">Nature machine intelligence</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">Blueprint for an ai bill of rights: Making automated systems</a><br><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">work for the american people</a></td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">White House Nimble Books</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">The national</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">artificial intelligence research and development strategic plan: 2023</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">update</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">National Science and Technology Council (US)</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="4">European Union</td>
+    <td class="tg-p59o"><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai" target="_blank" rel="noopener noreferrer">Ethics</a><br><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai" target="_blank" rel="noopener noreferrer">guidelines for trustworthy AI</a></td>
+    <td class="tg-nrix">2019</td>
+    <td class="tg-nrix">High-level expert group on artificial intelligence</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://artificialintelligenceact.eu/">EU Artificial intelligence act</a></td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-nrix">Regulamento da Uni茫o Europeia (UE)</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+    <td class="tg-nrix">2019</td>
+    <td class="tg-nrix">Nature machine intelligence</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="3">China</td>
+    <td class="tg-p59o"><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">Measures for the ethical review of science and</a><br><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">technology</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">C. A. of Sciences</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Standardization of ai ethical governance </td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">ational Artificial Intelligence StandardizationGeneral Group</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="3">Industry Level</td>
+    <td class="tg-nrix">Education</td>
+    <td class="tg-p59o"><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">Guidance for generative AI in education</a><br><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">and research</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">UNESCO Publishing</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Health</td>
+    <td class="tg-p59o"><a href="https://www.who.int/publications/i/item/9789240084759">Ethics and governance of artificial</a><br><a href="https://www.who.int/publications/i/item/9789240084759">intelligence for health: Guidance on large multi-modal models</a></td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-nrix">W. H. Organization</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Gaming</td>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2305.07392">The ethics of ai in games</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">IEEE Transactions onAffective Computing</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="9">Cultural Level</td>
+    <td class="tg-nrix" rowspan="4">Large/Small Power Distance<br>Strong/Weak Uncertainty Avoidance<br>Individual/Collectivism</td>
+    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+    <td class="tg-nrix">2011</td>
+    <td class="tg-nrix">Online readings in psychology and culture</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2411.06032">Llm-globe: A benchmark evaluating the cultural values</a><br><a href="https://arxiv.org/abs/2411.06032">embedded in llm output</a></td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="3">Long/Short-Term OrientationMasculinity/Femininity</td>
+    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+    <td class="tg-nrix">2011</td>
+    <td class="tg-nrix">Online readings in psychology and culture</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Indulgence/Restrained</td>
+    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+    <td class="tg-nrix">2011</td>
+    <td class="tg-nrix">Online readings in psychology and culture</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">arXiv</td>
+  </tr>
+</tbody></table>
+
 |    Sub-Level   |                                      Sub-sub-level                                     |                                                                                                      Title                                                                                                     | Time |                             Venue                             |
 |:--------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-------------------------------------------------------------:|
 | National Level |                                    The United States                                   |                                                             [Unpacking the ethical valuealignment in big models](https://arxiv.org/abs/2310.17551)                                                             | 2022 |                             arXiv                             |
