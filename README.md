@@ -285,176 +285,188 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 </tbody></table>
 
 #### The Meso Level Principles of Values Alignment
-<table class="tg"><tbody>
-  <tr>
-    <td class="tg-nrix">Sub-Level</td>
-    <td class="tg-nrix">Sub-sub-level</td>
-    <td class="tg-nrix">Title</td>
-    <td class="tg-nrix">Time</td>
-    <td class="tg-nrix">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="11">National Level</td>
-    <td class="tg-nrix" rowspan="4">The United States</td>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">alignment in big models</a></td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-nrix">2019</td>
-    <td class="tg-nrix">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">Blueprint for an ai bill of rights: Making automated systems</a><br><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">work for the american people</a></td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">White House Nimble Books</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">The national</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">artificial intelligence research and development strategic plan: 2023</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf" target="_blank" rel="noopener noreferrer">update</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">National Science and Technology Council (US)</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="4">European Union</td>
-    <td class="tg-p59o"><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai" target="_blank" rel="noopener noreferrer">Ethics</a><br><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai" target="_blank" rel="noopener noreferrer">guidelines for trustworthy AI</a></td>
-    <td class="tg-nrix">2019</td>
-    <td class="tg-nrix">High-level expert group on artificial intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://artificialintelligenceact.eu/">EU Artificial intelligence act</a></td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-nrix">Regulamento da Uni茫o Europeia (UE)</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-nrix">2019</td>
-    <td class="tg-nrix">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">China</td>
-    <td class="tg-p59o"><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">Measures for the ethical review of science and</a><br><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">technology</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">C. A. of Sciences</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Standardization of ai ethical governance </td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">ational Artificial Intelligence StandardizationGeneral Group</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">Industry Level</td>
-    <td class="tg-nrix">Education</td>
-    <td class="tg-p59o"><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">Guidance for generative AI in education</a><br><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">and research</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">UNESCO Publishing</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Health</td>
-    <td class="tg-p59o"><a href="https://www.who.int/publications/i/item/9789240084759">Ethics and governance of artificial</a><br><a href="https://www.who.int/publications/i/item/9789240084759">intelligence for health: Guidance on large multi-modal models</a></td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-nrix">W. H. Organization</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Gaming</td>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2305.07392">The ethics of ai in games</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">IEEE Transactions onAffective Computing</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="9">Cultural Level</td>
-    <td class="tg-nrix" rowspan="4">Large/Small Power Distance<br>Strong/Weak Uncertainty Avoidance<br>Individual/Collectivism</td>
-    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
-    <td class="tg-nrix">2011</td>
-    <td class="tg-nrix">Online readings in psychology and culture</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2411.06032">Llm-globe: A benchmark evaluating the cultural values</a><br><a href="https://arxiv.org/abs/2411.06032">embedded in llm output</a></td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">Long/Short-Term OrientationMasculinity/Femininity</td>
-    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
-    <td class="tg-nrix">2011</td>
-    <td class="tg-nrix">Online readings in psychology and culture</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="2">Indulgence/Restrained</td>
-    <td class="tg-p59o"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
-    <td class="tg-nrix">2011</td>
-    <td class="tg-nrix">Online readings in psychology and culture</td>
-  </tr>
-  <tr>
-    <td class="tg-p59o"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">arXiv</td>
-  </tr>
-</tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Sub-Level</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Sub-sub-level</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Title</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Time</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="11">National Level</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">The United States</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551" target="_blank" rel="noopener noreferrer">alignment in big models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">Blueprint for an ai bill of rights: Making automated systems</a><br><a href="https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/">work for the american people</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:middle;">White House Nimble Books</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf">The national</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf">artificial intelligence research and development strategic plan: 2023</a><br><a href="https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf">update</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">National Science and Technology Council (US)</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">European Union</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai">Ethics</a><br><a href="https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai">guidelines for trustworthy AI</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">High-level expert group on artificial intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://artificialintelligenceact.eu/">EU Artificial intelligence act</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">Regulamento da Uni茫o Europeia (UE)</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">China</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">Measures for the ethical review of science and</a><br><a href="https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm">technology</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">C. A. of Sciences</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Standardization of ai ethical governance </td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">ational Artificial Intelligence StandardizationGeneral Group</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">Industry Level</td>
+      <td style="text-align:center; vertical-align:middle;">Education</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">Guidance for generative AI in education</a><br><a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research">and research</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">UNESCO Publishing</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Health</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.who.int/publications/i/item/9789240084759">Ethics and governance of artificial</a><br><a href="https://www.who.int/publications/i/item/9789240084759">intelligence for health: Guidance on large multi-modal models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">W. H. Organization</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Gaming</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2305.07392">The ethics of ai in games</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">IEEE Transactions onAffective Computing</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="9">Cultural Level</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">Large/Small Power Distance<br>Strong/Weak Uncertainty Avoidance<br>Individual/Collectivism</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+      <td style="text-align:center; vertical-align:middle;">2011</td>
+      <td style="text-align:center; vertical-align:middle;">Online readings in psychology and culture</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2411.06032">Llm-globe: A benchmark evaluating the cultural values</a><br><a href="https://arxiv.org/abs/2411.06032">embedded in llm output</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">Long/Short-Term Orientation<br>Masculinity/Femininity</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+      <td style="text-align:center; vertical-align:middle;">2011</td>
+      <td style="text-align:center; vertical-align:middle;">Online readings in psychology and culture</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2406.14805">How well do</a><br><a href="https://arxiv.org/abs/2406.14805">llms represent values across cultures? empirical analysis of llm</a><br><a href="https://arxiv.org/abs/2406.14805">responses based on hofstede cultural dimensions</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Indulgence/Restrained</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">Dimensionalizing cultures: The hofstede model in</a><br><a href="https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/">context</a></td>
+      <td style="text-align:center; vertical-align:middle;">2011</td>
+      <td style="text-align:center; vertical-align:middle;">Online readings in psychology and culture</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2311.16421">Cdeval: A benchmark for measuring the cultural dimensions of</a><br><a href="https://arxiv.org/abs/2311.16421">large language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+  </tbody>
+</table>
 
-|    Sub-Level   |                                      Sub-sub-level                                     |                                                                                                      Title                                                                                                     | Time |                             Venue                             |
-|:--------------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-------------------------------------------------------------:|
-| National Level |                                    The United States                                   |                                                             [Unpacking the ethical valuealignment in big models](https://arxiv.org/abs/2310.17551)                                                             | 2022 |                             arXiv                             |
-|                |                                                                                        |                                                        [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                        | 2019 |                  Nature machine intelligence                  |
-|                |                                                                                        |                            [Blueprint for an ai bill of rights: Making automated systemswork for the american people](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/)                            | 2022 |                    White House Nimble Books                   |
-|                |                                                                                        | [The nationalartificial intelligence research and development strategic plan: 2023update](https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf) | 2023 |          National Science and Technology Council (US)         |
-|                |                                     European Union                                     |                                            [Ethicsguidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)                                            | 2019 |       High-level expert group on artificial intelligence      |
-|                |                                                                                        |                                                                     [EU Artificial intelligence act](https://artificialintelligenceact.eu/)                                                                    | 2024 |               Regulamento da União Europeia (UE)              |
-|                |                                                                                        |                                                             [Unpacking the ethical valuealignment in big models](https://arxiv.org/abs/2310.17551)                                                             | 2022 |                             arXiv                             |
-|                |                                                                                        |                                                        [The global landscape of aiethics guidelines](https://www.nature.com/articles/s42256-019-0088-2)                                                        | 2019 |                  Nature machine intelligence                  |
-|                |                                          China                                         |                                       [Measures for the ethical review of science andtechnology(trial)](https://www.gov.cn/zhengce/zhengceku/202310/content_6908045.htm)                                       | 2023 |                       C. A. of Sciences                       |
-|                |                                                                                        |                                                                             Standardization of ai ethical governance (2023 edition)                                                                            | 2023 | ational Artificial Intelligence Standardization General Group |
-|                |                                                                                        |                                                             [Unpacking the ethical valuealignment in big models](https://arxiv.org/abs/2310.17551)                                                             | 2022 |                             arXiv                             |
-| Industry Level |                                        Education                                       |                                     [Guidance for generative AI in educationand research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)                                    | 2023 |                       UNESCO Publishing                       |
-|                |                                         Health                                         |                            [Ethics and governance of artificialintelligence for health: Guidance on large multi-modal models](https://www.who.int/publications/i/item/9789240084759)                           | 2024 |                       W. H. Organization                      |
-|                |                                         Gaming                                         |                                                                          [The ethics of ai in games](https://arxiv.org/abs/2305.07392)                                                                         | 2023 |            IEEE Transactions on Affective Computing           |
-| Cultural Level | Large/Small Power Distance  Strong/Weak Uncertainty Avoidance  Individual/Collectivism |                                                   [Dimensionalizing cultures: The hofstede model incontext](https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/)                                                   | 2011 |           Online readings in psychology and culture           |
-|                |                                                                                        |                                              [Cdeval: A benchmark for measuring the cultural dimensions oflarge language models](https://arxiv.org/abs/2311.16421)                                             | 2023 |                             arXiv                             |
-|                |                                                                                        |                         [How well dollms represent values across cultures? empirical analysis of llmresponses based on hofstede cultural dimensions](https://arxiv.org/abs/2406.14805)                         | 2024 |                             arXiv                             |
-|                |                                                                                        |                                                 [Llm-globe: A benchmark evaluating the cultural valuesembedded in llm output](https://arxiv.org/abs/2411.06032)                                                | 2024 |                             arXiv                             |
-|                |                   Long/Short-Term Orientation Masculinity/Femininity                   |                                                   [Dimensionalizing cultures: The hofstede model incontext](https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/)                                                   | 2011 |           Online readings in psychology and culture           |
-|                |                                                                                        |                                              [Cdeval: A benchmark for measuring the cultural dimensions oflarge language models](https://arxiv.org/abs/2311.16421)                                             | 2023 |                             arXiv                             |
-|                |                                                                                        |                         [How well dollms represent values across cultures? empirical analysis of llmresponses based on hofstede cultural dimensions](https://arxiv.org/abs/2406.14805)                         | 2024 |                             arXiv                             |
-|                |                                  Indulgence/Restrained                                 |                                                   [Dimensionalizing cultures: The hofstede model incontext](https://scholarworks.gvsu.edu/orpc/vol2/iss1/8/)                                                   | 2011 |           Online readings in psychology and culture           |
-|                |                                                                                        |                                              [Cdeval: A benchmark for measuring the cultural dimensions oflarge language models](https://arxiv.org/abs/2311.16421)                                             | 2023 |                             arXiv                             |
 #### The Micro Level Principles of Values Alignment
-|             Sub-Level             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Time |                     Venue                    |
-|:---------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:--------------------------------------------:|
-|             Recruiment            | [Recruitment in the times of machine learning](https://sciendo-parsed.s3.eu-central-1.amazonaws.com/6472540a215d2f6c89dc43ab/10.1515_mspe-2019-0018.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIA6AP2G7AKLD7LVJ4I%2F20250701%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250701T020101Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIGwyocJnGwzEazGG47IHioJhcJYKvmdRQapGQwxckITNAiEA46W1g9lMj5bO6v%2FdJcg6rj5CBHO9J4nbM7z5kfkhdDkqxAUIyv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgw5NjMxMzQyODk5NDAiDNchYkKNnKSQqU5dlyqYBYyq18WaikGIWSEANdyYQdWVsVuMdpJ7EhLwNKwOIn7DzIRbHKdZYmI9BVrNTSGzdz%2BNji0WDCHNnRoIISelICoEcJ7%2B88PmrLg0CgXtqbBkVCTer8pZrLBZU3eyFzn20kyP4JH%2FfoMhPUzBmv%2Bm7hdUNRc6ek7u9M%2FxlEgojG0Xt1DMO2h0gc4h1wGfM8oFwyHyAluhTKkNs1MpiNa3fSUeklME6ZSq6AEiIdzrzFIQdO4tl%2BCiXMh%2BpR6xC3ba951rH6qJyAIRSqIHPOsyD%2BWEBzZs0fjGjjJgxH%2Bh3IKDupvetAhXz5qRULt4J0PyWSp9uWStoDGH6fXcT7XV30Eyk5pZiTQrStvLvs1xRKM2TZZkYvEg4eK6GpwNnwTIf4kwTjpTOqTpCptGaqYXQom2gAM127ts5ZWJu5HPSxYbjtl%2BIn3mIO6brjskARidxr0xIZvQnJkGxYYpNA%2BKq%2BLKeH7TmntSXT%2FmD5TGvUvE4stgWPcgDSU3qyO0PrtbPCbxQ7Q2Q10MQVjP9fhxzswIPUmLJxQv%2BLMPU3lxxgXzvGtxkOY7sW29dAJI6oQclB5nt83dxAtandSjhR0dhX9dHhwO68TyjwQoDL7nNdqHEesRhU0VZkfnXhaE1QS7lT0OZhLL7KVLPIsH2IDzIAo4dxB9oszc3WXKRsR4P9eUV3kZDRaJoZZvE1AGru%2FiBzk77YYAUEfI9e4nqDxU%2BVVGoPtGJr0nCpADfbgQfzHF6KAy0%2BAhK8NWzdpAgEonlZGHbajNMMLRFtJ4p1dh%2BiKd1MPBQd1dp31d%2F3UVm0HOmawdaDzxJdMWgpq3TfgAhYmEY50nEqNqt7QcdmoC4UxeEGP6ksv7QbbyqBQb%2BtlZWyiv8km7X6Yw4O2MwwY6sQHLefZLLMlUBng0okDVdJBFmZs4u6SHx4nUbVQocwcoSL%2FgLGFPnY9aS4R1HAyTRnKs0mmKZwQOzYrbsal7OuD8sqsxgOt62Ei9xLpr3nQW5WJnIUVsfDe%2F40X0V7wBgDIbW%2FSNNEVk9x2ltjvEbYNLJS0BOTeg%2FDJRefMgk8oOZG76iy%2FnY%2FldFT3B7rpxo5sWF%2BYHMy%2Bhi8sJDCFZ85uKTegqbQLhECdnE5hBsx1w2G8%3D&X-Amz-Signature=665b8884bfc6ec19c395ef8ee2a18eae3f1439e37a3dcd5e045902950a5670ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) | 2019 | Management Systems in Production Engineering |
-|                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [HR analytics and ethics](https://ieeexplore.ieee.org/document/8708197)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2019 |    IBM Journal of Research and Development   |
-|                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    [Ethics of ai-enabled re-cruiting and selection: A review and research agenda](https://link.springer.com/article/10.1007/S10551-022-05049-6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2022 |          Journal of Business Ethics          |
-|         Legal Consultation        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [Lawluo: A chinese law firm co-run by llm agents](https://arxiv.org/abs/2407.16252)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2024 |                     arXiv                    |
-| Pharmaceutical Company Governance |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [Operationalising ai governance through ethics-based auditing: an industry case study](https://link.springer.com/article/10.1007/s43681-022-00171-7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2023 |                 AI and Ethics                |
+<table>
+  <thead>
+    <tr>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Sub-Level</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Title</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Time</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">Recruiment</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://sciendo-parsed.s3.eu-central-1.amazonaws.com/6472540a215d2f6c89dc43ab/10.1515_mspe-2019-0018.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIA6AP2G7AKLD7LVJ4I/20250701/eu-central-1/s3/aws4_request&X-Amz-Date=20250701T020101Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENH//////////wEaDGV1LWNlbnRyYWwtMSJHMEUCIGwyocJnGwzEazGG47IHioJhcJYKvmdRQapGQwxckITNAiEA46W1g9lMj5bO6v/dJcg6rj5CBHO9J4nbM7z5kfkhdDkqxAUIyv//////////ARACGgw5NjMxMzQyODk5NDAiDNchYkKNnKSQqU5dlyqYBYyq18WaikGIWSEANdyYQdWVsVuMdpJ7EhLwNKwOIn7DzIRbHKdZYmI9BVrNTSGzdz+Nji0WDCHNnRoIISelICoEcJ7+88PmrLg0CgXtqbBkVCTer8pZrLBZU3eyFzn20kyP4JH/foMhPUzBmv+m7hdUNRc6ek7u9M/xlEgojG0Xt1DMO2h0gc4h1wGfM8oFwyHyAluhTKkNs1MpiNa3fSUeklME6ZSq6AEiIdzrzFIQdO4tl+CiXMh+pR6xC3ba951rH6qJyAIRSqIHPOsyD+WEBzZs0fjGjjJgxH+h3IKDupvetAhXz5qRULt4J0PyWSp9uWStoDGH6fXcT7XV30Eyk5pZiTQrStvLvs1xRKM2TZZkYvEg4eK6GpwNnwTIf4kwTjpTOqTpCptGaqYXQom2gAM127ts5ZWJu5HPSxYbjtl+In3mIO6brjskARidxr0xIZvQnJkGxYYpNA+Kq+LKeH7TmntSXT/mD5TGvUvE4stgWPcgDSU3qyO0PrtbPCbxQ7Q2Q10MQVjP9fhxzswIPUmLJxQv+LMPU3lxxgXzvGtxkOY7sW29dAJI6oQclB5nt83dxAtandSjhR0dhX9dHhwO68TyjwQoDL7nNdqHEesRhU0VZkfnXhaE1QS7lT0OZhLL7KVLPIsH2IDzIAo4dxB9oszc3WXKRsR4P9eUV3kZDRaJoZZvE1AGru/iBzk77YYAUEfI9e4nqDxU+VVGoPtGJr0nCpADfbgQfzHF6KAy0+AhK8NWzdpAgEonlZGHbajNMMLRFtJ4p1dh+iKd1MPBQd1dp31d/3UVm0HOmawdaDzxJdMWgpq3TfgAhYmEY50nEqNqt7QcdmoC4UxeEGP6ksv7QbbyqBQb+tlZWyiv8km7X6Yw4O2MwwY6sQHLefZLLMlUBng0okDVdJBFmZs4u6SHx4nUbVQocwcoSL/gLGFPnY9aS4R1HAyTRnKs0mmKZwQOzYrbsal7OuD8sqsxgOt62Ei9xLpr3nQW5WJnIUVsfDe/40X0V7wBgDIbW/SNNEVk9x2ltjvEbYNLJS0BOTeg/DJRefMgk8oOZG76iy/nY/ldFT3B7rpxo5sWF+YHMy+hi8sJDCFZ85uKTegqbQLhECdnE5hBsx1w2G8=&X-Amz-Signature=665b8884bfc6ec19c395ef8ee2a18eae3f1439e37a3dcd5e045902950a5670ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" target="_blank" rel="noopener noreferrer">Recruitment in the times of machine learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Management Systems in Production Engineering</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://ieeexplore.ieee.org/document/8708197">HR analytics and ethics</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">IBM Journal of Research andDevelopment</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://link.springer.com/article/10.1007/S10551-022-05049-6">Ethics of ai-enabled re-cruiting and selection: A review and research agenda</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:middle;">Journal ofBusiness Ethics</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Legal Consultation</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2407.16252">Lawluo: A chinese law firm co-run by llm agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Pharmaceutical Company Governance</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://link.springer.com/article/10.1007/s43681-022-00171-7">Operationalising ai governance through ethics-based auditing: an industry case study</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">AI andEthics</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Agent System Application
 | Time  | Title | Keywords | Venue | Paper |
