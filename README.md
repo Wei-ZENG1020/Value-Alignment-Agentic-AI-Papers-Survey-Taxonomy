@@ -23,6 +23,8 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
   - [Meso Level](#the-meso-level-principles-of-values-alignment)
   - [Micro Level](#the-micro-level-principles-of-values-alignment)
 - [Agent System Application](#agent-system-application)
+  - [High Generaliability](#high-generaliability)
+  - [Limited Generaliability](#limited-generaliability)
 - [Values Alignment Evaluation for Agent Systems](#values-alignment-evaluation-for-agent-systems)
 - [Methodologies for Agent Value Alignment](#methodologies-for-agent-value-alignment)
 - [Datasets](#datasets)
@@ -473,6 +475,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 </table>
 
 ### Agent System Application
+#### High Generaliability
 <table>
   <thead>
     <tr>
@@ -833,36 +836,12 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
       <td style="text-align:center; vertical-align:middle;">2025</td>
       <td style="text-align:center; vertical-align:middle;">WWW 2025</td>
     </tr>
-    <tr>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-      <td style="text-align:left; vertical-align:top;"></td>
-    </tr>
   </tbody>
 </table>
+
+#### Limited Generaliability
+
+
 
 
 ### Values Alignment Evaluation for Agent Systems
