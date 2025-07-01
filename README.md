@@ -147,7 +147,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
       <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align:top;">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=HlDkjiDVjGvCXuvcEGR1HyyNZRJKbgHMrLGctym2m6XbDHHERqe3gtnbcC-vNmgkJX68I3yqT9vxbzidNLQVehHAnRUO6E21jMv903SX1B1ouRGMYNh59TcdU3e5Dniq8B_c0qZNH8HOVmE1rYWLM_p_ZRmV_bjKal4JaBXqyI0=&uniplatform=NZKPT">Shaping the ethical governance path ofartificial intelligence in</a><br><a href="https://kns.cnki.net/kcms2/article/abstract?v=HlDkjiDVjGvCXuvcEGR1HyyNZRJKbgHMrLGctym2m6XbDHHERqe3gtnbcC-vNmgkJX68I3yqT9vxbzidNLQVehHAnRUO6E21jMv903SX1B1ouRGMYNh59TcdU3e5Dniq8B_c0qZNH8HOVmE1rYWLM_p_ZRmV_bjKal4JaBXqyI0=&uniplatform=NZKPT">the chinese context—based on value-instrument rationality</a></td>
       <td style="text-align:center; vertical-align:middle;">2025</td>
       <td style="text-align:center; vertical-align:middle;">Studies in Science of Science</td>
     </tr>
@@ -164,7 +164,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
       <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align:top;">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=HlDkjiDVjGvCXuvcEGR1HyyNZRJKbgHMrLGctym2m6XbDHHERqe3gtnbcC-vNmgkJX68I3yqT9vxbzidNLQVehHAnRUO6E21jMv903SX1B1ouRGMYNh59TcdU3e5Dniq8B_c0qZNH8HOVmE1rYWLM_p_ZRmV_bjKal4JaBXqyI0=&uniplatform=NZKPT">Shaping the ethical governance path ofartificial intelligence in</a><br><a href="https://kns.cnki.net/kcms2/article/abstract?v=HlDkjiDVjGvCXuvcEGR1HyyNZRJKbgHMrLGctym2m6XbDHHERqe3gtnbcC-vNmgkJX68I3yqT9vxbzidNLQVehHAnRUO6E21jMv903SX1B1ouRGMYNh59TcdU3e5Dniq8B_c0qZNH8HOVmE1rYWLM_p_ZRmV_bjKal4JaBXqyI0=&uniplatform=NZKPT">the chinese context—based on value-instrument rationality</a></td>
       <td style="text-align:center; vertical-align:middle;">2025</td>
       <td style="text-align:center; vertical-align:middle;">Studies in Science of Science</td>
     </tr>
