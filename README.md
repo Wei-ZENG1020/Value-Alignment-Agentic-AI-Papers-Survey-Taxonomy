@@ -211,7 +211,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
     </tr>
     <tr>
       <td style="text-align:center; vertical-align:middle;" rowspan="15">System Governance</td>
-      <td style="text-align:center; vertical-align:middle;" rowspan="5">Harmless</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="5">Harmlessness</td>
       <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
       <td style="text-align:center; vertical-align:middle;">2019</td>
       <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
