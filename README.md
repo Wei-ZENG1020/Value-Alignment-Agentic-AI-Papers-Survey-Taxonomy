@@ -331,7 +331,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
     <tr>
       <td style="text-align:center; vertical-align:top;"><a href="https://artificialintelligenceact.eu/">EU Artificial intelligence act</a></td>
       <td style="text-align:center; vertical-align:middle;">2024</td>
-      <td style="text-align:center; vertical-align:middle;">Regulamento da Uni茫o Europeia (UE)</td>
+      <td style="text-align:center; vertical-align:middle;">Regulamento da União Europeia (UE)</td>
     </tr>
     <tr>
       <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
