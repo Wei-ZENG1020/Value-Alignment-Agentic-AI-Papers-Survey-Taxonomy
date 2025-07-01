@@ -473,11 +473,398 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 </table>
 
 ### Agent System Application
-| Time  | Title | Keywords | Venue | Paper |
-| :---: | :---: | :------: | :---: | :---: |
-| Row 1 | Data  |   Data   | Data  | Data  |
-| Row 2 | Data  |   Data   | Data  | Data  |
-| Row 3 | Data  |   Data   | Data  | Data  |
+<table>
+  <thead>
+    <tr>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Generalizability</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Category</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Title</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Time</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="68">High</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="5">Tool Using</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=0bmGL4q7vJ" target="_blank" rel="noopener noreferrer">Multi-modal agent tuning: Building avlm-driven agent for efficient tool usage</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=DYMj03Gbri" target="_blank" rel="noopener noreferrer">Agent smith: A single image can jailbreak one million multimodal LLM agents exponentially fast</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20%208a75ee6d4b2eb0b777f549a32a5a5c28-Abstract-Datasets_and_%20%20Benchmarks_Track.html" target="_blank" rel="noopener noreferrer">GTA: A benchmark for general tool agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">Advances in Neural Information Processing Systems</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.624" target="_blank" rel="noopener noreferrer">Injecagent: Benchmarking indirect prompt injections in tool-integrated large language model agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20%20c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_%20%20Benchmarks_Track.html" target="_blank" rel="noopener noreferrer">Spider2-v: How far are multimodal agents from automating data science and engineering workflows?</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">Advances in Neural Information Processing Systems</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="14">Dialugue <br>Agents</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1109/TASLP.2024.3357032" target="_blank" rel="noopener noreferrer">Please donate to save a life: Inducing politeness to handle resistance in persuasive dialogue agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">IEEE ACM Trans. Audio Speech<br>Lang. Process</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=b6rA0kAHT1" target="_blank" rel="noopener noreferrer">Archer: Training language model agents via hierarchical multi-turn RL</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://www.ijcai.org/proceedings/2024/1032" target="_blank" rel="noopener noreferrer">Inside out: Emotional multiagent multimodal dialogue systems</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">IJCAI 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.972" target="_blank" rel="noopener noreferrer">KEEP chatting! an attractive dataset for continuous conversation agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=xKDZAW0He3" target="_blank" rel="noopener noreferrer">Secom: On memory construction and retrieval for personalized conversational agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.632" target="_blank" rel="noopener noreferrer">STYLE: improving domain transferability of asking clarification questions in large language model powered conversationalagents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.801" target="_blank" rel="noopener noreferrer">Talk with human-like agents: Empathetic dialogue through perceptible acoustic reception and reaction</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20%20097c514162ea7126d40671d23e12f51b-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">AGILE: A novel reinforcement learning framework of LLM agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1145/3637528.3671646" target="_blank" rel="noopener noreferrer">Intelligent agents with llm-based process automation</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">KDD 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.102" target="_blank" rel="noopener noreferrer">Incharacter: Evaluating personality fidelity in role-playing agents through psychological interviews</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=MCNqgUFTHI" target="_blank" rel="noopener noreferrer">Plug and-play policy planner for large language model powered dialogue agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.274" target="_blank" rel="noopener noreferrer">Probing the uniquely identifiable linguistic patterns of conversational AI agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.125" target="_blank" rel="noopener noreferrer">Socialbench: Sociality evaluation of role-playing conversational agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.307" target="_blank" rel="noopener noreferrer">Speaker verification in agent-generated conversations</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">Multimodal Perception</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=K5yeB4dTtS" target="_blank" rel="noopener noreferrer">MLLM as retriever: Interactively learning multimodal retrieval for embodied agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=0bmGL4q7vJ" target="_blank" rel="noopener noreferrer">Multi-modal agent tuning: Building a vlm-driven agent for efficient tool usage</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=DYMj03Gbri" target="_blank" rel="noopener noreferrer">Agent smith: A single image can jailbreak one million multimodal LLM agents exponentially fast</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=QMy2RLnxGN" target="_blank" rel="noopener noreferrer">Doraemongpt: Toward understanding dynamic scenes with large language models (exemplified as A video agent)</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="11">Multi-Agent Collaboration</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%203e4d8407cb468850f2f8f4a949e64bf0-Abstract-Datasets_and_%20Benchmarks_Track.html" target="_blank" rel="noopener noreferrer">Adasociety: An adaptive environment with social structures for multi-agent decision-making</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.782" target="_blank" rel="noopener noreferrer">Exploring collaboration mechanisms for LLM agents: A social psychology view</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=%20tmqOhBC4a5" target="_blank" rel="noopener noreferrer">Maximum entropy heterogeneous-agent reinforcement learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1109/TFUZZ.2024.3363053" target="_blank" rel="noopener noreferrer">Fuzzy feedback multiagent reinforcement learning for adversarial dynamic multiteam competitions</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">IEEE Trans. Fuzzy Syst.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://proceedings.mlr.press/v202/ding23d.html" target="_blank" rel="noopener noreferrer">Entity divider with language grounding in multi-agent reinforcement learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1016/j.aei.2024.102646" target="_blank" rel="noopener noreferrer">Collaborative dynamic scheduling in a self-organizing manufacturing system using multi-agent reinforcement learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">Adv. Eng. Informatics</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.305" target="_blank" rel="noopener noreferrer">Experiential co-learning of software-developing agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%205a7c947568c1b1328ccc5230172e1e7c-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Swe-agent: Agent-computer interfaces enable automated software engineering</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%206e9f99809b6df59e8fe5c9ffe269bf40-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Learning to cooperate with humans using generative agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%207d6e85e88495104442af94c98e899659-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Long-horizon planning for multi-agent robots in partially observable environments</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.778" target="_blank" rel="noopener noreferrer">360°rea: Towards A reusable experience accumulation with 360° assessment for multi-agent system</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">Visual Tasks Processing</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1145/3643565" target="_blank" rel="noopener noreferrer">Cobjeason: Reasoning covered object in image by multi-agent collaboration based on informed knowledge graph</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACM Trans. Knowl. Discov. Data</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20e7c786024ca718f2487712bfe9f51030-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Genartist: Multimodal LLM as an agent for unified image generation and editing</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20c78f639424b8d89ceb4f2efbb4dfe4f4-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Restoreagent: Autonomous image restoration agent via multimodal large language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=gAyzjHw2ml" target="_blank" rel="noopener noreferrer">Scenecraft: An LLM agent for synthesizing 3d scenes as blender code</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="6">Natural Language Processing</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1109/TASLP.2024.3375630" target="_blank" rel="noopener noreferrer">Kgagent: Learning a deep reinforced agent for keyphrase generation</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">IEEE ACM Trans. Audio Speech Lang. Process.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=OTmcsyEO5G" target="_blank" rel="noopener noreferrer">A human inspired reading agent with gist memory of very long contexts</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.12" target="_blank" rel="noopener noreferrer">Text2db: Integration aware information extraction with large language model agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1016/j.ipm.2025.104136" target="_blank" rel="noopener noreferrer">Optimizing text-to-sql conversion techniques through the integration of intelligent agents and large language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">Inf. Process. Manag.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.336" target="_blank" rel="noopener noreferrer">Xmc-agent : Dynamic navigation over scalable hierarchical index for incremental extreme multi-label classification</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.446" target="_blank" rel="noopener noreferrer">A two-agent game for zero-shot relation triplet extraction</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;">Data Generation and Analysis</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20b235f0b417e8bf270c0cb19fe0b82c1e-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Transagent: Transfer vision-language foundation models with heterogeneous agent collaboration</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="23">Reasoning, Planning <br>and Decision Optimization</td>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2023/hash/%20029df12a9363313c3e41047844ecad94-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">AVIS: autonomous visual information seeking with large language model agent</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=s9z0HzWJJp" target="_blank" rel="noopener noreferrer">Sociodojo: Building lifelong analytical agents with real-world text and time series</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=zMwFvxr6CV" target="_blank" rel="noopener noreferrer">Agent instructs large language models to be general zero-shot reasoners</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20d032263772946dd5026e7f3cd22bce5b-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Agent planning with world knowledge model</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%200142921fad7ef9192bd87229cdafa9d4-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Automanual: Constructing instruction manuals by LLM agents via interactive environmental learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=zj7YuTE4t8" target="_blank" rel="noopener noreferrer">Improving factuality and reasoning in language models through multiagent debate</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=ffLblkoCw8" target="_blank" rel="noopener noreferrer">Magdi: Structured distillation of multi-agent interaction graphs improves reasoning in smaller language models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://www.ijcai.org/proceedings/2024/892" target="_blank" rel="noopener noreferrer">Social learning through interactions with other agents: A survey</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">IJCAI 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=7M0EzjugaN" target="_blank" rel="noopener noreferrer">Online continual learning for interactive instruction following agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=l5XQzNkAOe" target="_blank" rel="noopener noreferrer">Travelplanner: A benchmark for real-world planning with language agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.acl-long.409" target="_blank" rel="noopener noreferrer">Trial and error: Exploration-based trajectory optimization of LLM agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://proceedings.mlr.press/v202/sumers23a.html" target="_blank" rel="noopener noreferrer">Distilling internet-scale vision-language models into embodied agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2023/hash/%20bb3cfcb0284642a973dd631ec9184f2f-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Grounded decoding: Guiding text generation with grounded models for embodied agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=OhUoTMxFIH" target="_blank" rel="noopener noreferrer">Robotouille: An asynchronous planning benchmark for LLM agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">ICLR 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://openreview.net/forum?id=usUPvQH3XK" target="_blank" rel="noopener noreferrer">Language agents with reinforcement learning for strategic play in the werewolf game</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%2085f1225db986e629289f402c46eff1a4-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Omnijarvis: Unified vision language-action tokenization enables open-world instruction following agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1145/3637528.3671650" target="_blank" rel="noopener noreferrer">Understanding the weakness of large language model agents within a complex android environment</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">KDD 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/hash/%20b631da756d1573c24c9ba9c702fde5a9-Abstract-Datasets_and_%20Benchmarks_Track.html" target="_blank" rel="noopener noreferrer">Embodied agent interface: Benchmarking llms for embodied decision making</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1145/3696410.3714825" target="_blank" rel="noopener noreferrer">Tool learning in the wild: Empowering language models as automatic tool agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">WWW 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2023/hash/%204b0eea69deea512c9e2c469187643dc2-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Swiftsage: A generative agent with fast and slow thinking for complex interactive tasks</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2023</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="http://papers.nips.cc/paper_files/paper/2024/%20hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_%20Benchmarks_Track.html" target="_blank" rel="noopener noreferrer">On the effects of data scale on UI control agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.18653/v1/2024.findings-acl.802" target="_blank" rel="noopener noreferrer">Rada: Retrieval-augmented web agent planning with llms</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACL 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://doi.org/10.1145/3696410.3714765" target="_blank" rel="noopener noreferrer">Division-of-thoughts: Harnessing hybrid language model synergy for efficient on-device agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">WWW 2025</td>
+    </tr>
+    <tr>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+      <td style="text-align:left; vertical-align:top;"></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Values Alignment Evaluation for Agent Systems
 ### Methodologies for Agent Value Alignment
 
