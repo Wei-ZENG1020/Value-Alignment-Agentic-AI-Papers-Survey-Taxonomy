@@ -51,238 +51,242 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ### The Principles of Values Alignment
 ![](multi-level-value-alignment-principles.png)
 #### The Macro Level Principles of Values Alignment
-<table class="tg"><tbody>
-  <tr>
-    <td class="tg-9wq8">Sub-Level</td>
-    <td class="tg-9wq8">Sub-sub-Level</td>
-    <td class="tg-9wq8">Title</td>
-    <td class="tg-9wq8">Time</td>
-    <td class="tg-9wq8">Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="16">Moral Foundation</td>
-    <td class="tg-9wq8" rowspan="2">Beneficience</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2" target="_blank" rel="noopener noreferrer">The global landscape of aiethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45" target="_blank" rel="noopener noreferrer">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45" target="_blank" rel="noopener noreferrer">for ai in society</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Machine learning and the city: Applications inarchitecture and urban design</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="6">Justice &amp; Fairness</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Machine learning and the city: Applications inarchitecture and urban design</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">Towards realistic evaluation of cultural value alignment in large</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">language models: Diversity enhancement for survey response</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">simulation</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-9wq8">Information Processing &amp; Management</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://openreview.net/forum?id=yoVq2BGQdP">Achieving fairness in multi-agent</a><br><a href="https://openreview.net/forum?id=yoVq2BGQdP">mdp using reinforcement learning</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-c3ow">The Twelfth InternationalConference on Learning Representations</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html">Beavertails: Towards improved safety</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html">alignment of llm via a human-preference dataset</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-c3ow">Advances inNeural Information Processing Systems</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Honesty</td>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2308.12014" target="_blank" rel="noopener noreferrer">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014" target="_blank" rel="noopener noreferrer">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014" target="_blank" rel="noopener noreferrer">models</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-9wq8">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://openreview.net/forum?id=zj7YuTE4t8">Improving factuality and reasoning in language models through</a><br><a href="https://openreview.net/forum?id=zj7YuTE4t8">multiagent debate</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-9wq8">Forty-first International Conference on Machine Learning</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Responsibility</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Virtue</td>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2410.02683">Dailydilemmas: Revealing value</a><br><a href="https://arxiv.org/abs/2410.02683">preferences of llms with quandaries of daily life</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-c3ow">The ThirteenthInternational Conference on Learning Representations, ICLR 2025,Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2501.07071">Value compass leaderboard: A platform</a><br><a href="https://arxiv.org/abs/2501.07071">for fundamental and validated evaluation of llms values</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-9wq8">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Dignity</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-9wq8">Studies in Science of Science</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="7">Rights Protection</td>
-    <td class="tg-9wq8" rowspan="3">Freedom &amp; Autonomy</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Machine learning and the city: Applications inarchitecture and urban design</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-9wq8">Studies in Science of Science</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="4">Privacy</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/full/10.1145/3653982">Hydragan: A cooperative agent</a><br><a href="https://dl.acm.org/doi/full/10.1145/3653982">model for multi-objective data generation</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-c3ow">ACM Trans. Intell.Syst. Technol.</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2410.11906">Empowering users in digital</a><br><a href="https://arxiv.org/abs/2410.11906">privacy management through interactive llm-based agents</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-c3ow">TheThirteenth International Conference on Learning Representations, ICLR2025, Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="3">Sustainability</td>
-    <td class="tg-9wq8">Solidarity</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Sustainability</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html">Cooperate or collapse: Emergence of</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html">sustainable cooperation in a society of LLM agents</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-c3ow">Advances in Neural Information Processing Systems 38: AnnualConference on Neural Information Processing Systems 2024,NeurIPS 2024</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="15">System Governance</td>
-    <td class="tg-9wq8" rowspan="5">Harmless</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Machine learning and the city: Applications inarchitecture and urban design</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2308.12014">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014">models</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-9wq8">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2305.16960">Training socially aligned language models on simulated</a><br><a href="https://arxiv.org/abs/2305.16960">social interactions</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-c3ow">The Twelfth International Conferenceon Learning Representations, ICLR 2024</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html">Safesora: Towards safety alignment of text2video generation</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html">via a human preference dataset</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-c3ow">Advances in Neural InformationProcessing Systems</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Trust</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">Towards realistic evaluation of cultural value alignment in large</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">language models: Diversity enhancement for survey response</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">simulation</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-9wq8">Information Processing &amp; Management</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="6">Transparency</td>
-    <td class="tg-hq1h"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">Nature machine intelligence</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Machine learning and the city: Applications inarchitecture and urban design</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
-    <td class="tg-9wq8">2022</td>
-    <td class="tg-c3ow">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://dl.acm.org/doi/abs/10.1145/3680287">ICA-CRMAS: intelligent</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3680287">context-awareness approach for citation recommendation based</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3680287">on multi-agent system</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-9wq8">ACM Trans. Manag. Inf. Syst.</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://openreview.net/forum?id=mDw42ZanmE">A multimodal</a><br><a href="https://openreview.net/forum?id=mDw42ZanmE">automated interpretability agent</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-c3ow">Forty-first InternationalConference on Machine Learning, ICML 2024</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2405.17631">Biodiscoveryagent: An</a><br><a href="https://arxiv.org/abs/2405.17631">ai agent for designing genetic perturbation experiments</a></td>
-    <td class="tg-9wq8">2024</td>
-    <td class="tg-9wq8">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8" rowspan="2">Usefulness</td>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2308.12014">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014">models</a></td>
-    <td class="tg-9wq8">2023</td>
-    <td class="tg-9wq8">arXiv</td>
-  </tr>
-  <tr>
-    <td class="tg-hq1h"><a href="https://arxiv.org/abs/2410.02683">Dailydilemmas: Revealing value</a><br><a href="https://arxiv.org/abs/2410.02683">preferences of llms with quandaries of daily life</a></td>
-    <td class="tg-9wq8">2025</td>
-    <td class="tg-c3ow">The ThirteenthInternational Conference on Learning Representations, ICLR 2025</td>
-  </tr>
-</tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Sub-Level</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Sub-sub-Level</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Title</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Time</th>
+      <th style="font-weight:bold; text-align:center; vertical-align:middle;">Venue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="16">Moral Foundation</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Beneficience</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2" target="_blank" rel="noopener noreferrer">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2" target="_blank" rel="noopener noreferrer">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="6">Justice &amp; Fairness</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">Towards realistic evaluation of cultural value alignment in large</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">language models: Diversity enhancement for survey response</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">simulation</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">Information Processing &amp; Management</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://openreview.net/forum?id=yoVq2BGQdP">Achieving fairness in multi-agent</a><br><a href="https://openreview.net/forum?id=yoVq2BGQdP">mdp using reinforcement learning</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:top;">The Twelfth InternationalConference on Learning Representations</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html">Beavertails: Towards improved safety</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/4dbb61cb68671edc4ca3712d70083b9f-Abstract-Datasets_and_Benchmarks.html">alignment of llm via a human-preference dataset</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:top;">Advances inNeural Information Processing Systems</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Honesty</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2308.12014">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014">models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://openreview.net/forum?id=zj7YuTE4t8">Improving factuality and reasoning in language models through</a><br><a href="https://openreview.net/forum?id=zj7YuTE4t8">multiagent debate</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">Forty-first International Conference on Machine Learning</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Responsibility</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Virtue</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2410.02683">Dailydilemmas: Revealing value</a><br><a href="https://arxiv.org/abs/2410.02683">preferences of llms with quandaries of daily life</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:top;">The ThirteenthInternational Conference on Learning Representations, ICLR 2025,Singapore</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2501.07071">Value compass leaderboard: A platform</a><br><a href="https://arxiv.org/abs/2501.07071">for fundamental and validated evaluation of llms values</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Dignity</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">Studies in Science of Science</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="7">Rights Protection</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">Freedom &amp; Autonomy</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;">Shaping the ethical governance path ofartificial intelligence in the chinese context—based on value-instrument rationality</td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">Studies in Science of Science</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="4">Privacy</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/full/10.1145/3653982">Hydragan: A cooperative agent</a><br><a href="https://dl.acm.org/doi/full/10.1145/3653982">model for multi-objective data generation</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:top;">ACM Trans. Intell.Syst. Technol.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2410.11906">Empowering users in digital</a><br><a href="https://arxiv.org/abs/2410.11906">privacy management through interactive llm-based agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:top;">TheThirteenth International Conference on Learning Representations, ICLR2025, Singapore</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="3">Sustainability</td>
+      <td style="text-align:center; vertical-align:middle;">Solidarity</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Sustainability</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html">Cooperate or collapse: Emergence of</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html">sustainable cooperation in a society of LLM agents</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:top;">Advances in Neural Information Processing Systems 38: AnnualConference on Neural Information Processing Systems 2024,NeurIPS 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="15">System Governance</td>
+      <td style="text-align:center; vertical-align:middle;" rowspan="5">Harmless</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2308.12014">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014">models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2305.16960">Training socially aligned language models on simulated</a><br><a href="https://arxiv.org/abs/2305.16960">social interactions</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:top;">The Twelfth International Conferenceon Learning Representations, ICLR 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html">Safesora: Towards safety alignment of text2video generation</a><br><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html">via a human preference dataset</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:top;">Advances in Neural InformationProcessing Systems</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Trust</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">Towards realistic evaluation of cultural value alignment in large</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">language models: Diversity enhancement for survey response</a><br><a href="https://www.sciencedirect.com/science/article/abs/pii/S030645732500041X">simulation</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:middle;">Information Processing &amp; Management</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="6">Transparency</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://www.nature.com/articles/s42256-019-0088-2">The global landscape of ai</a><br><a href="https://www.nature.com/articles/s42256-019-0088-2">ethics guidelines</a></td>
+      <td style="text-align:center; vertical-align:middle;">2019</td>
+      <td style="text-align:center; vertical-align:middle;">Nature machine intelligence</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">A unified framework of five principles</a><br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119815075.ch45">for ai in society</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Machine learning and the city: Applications inarchitecture and urban design</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">Ethics of ai: A</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3530019.3531329">systematic literature review of principles and challenges</a></td>
+      <td style="text-align:center; vertical-align:middle;">2022</td>
+      <td style="text-align:center; vertical-align:top;">Proceedings of the 26th international conference on evaluation andassessment in software engineering</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://dl.acm.org/doi/abs/10.1145/3680287">ICA-CRMAS: intelligent</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3680287">context-awareness approach for citation recommendation based</a><br><a href="https://dl.acm.org/doi/abs/10.1145/3680287">on multi-agent system</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">ACM Trans. Manag. Inf. Syst.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://openreview.net/forum?id=mDw42ZanmE">A multimodal</a><br><a href="https://openreview.net/forum?id=mDw42ZanmE">automated interpretability agent</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:top;">Forty-first InternationalConference on Machine Learning, ICML 2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2405.17631">Biodiscoveryagent: An</a><br><a href="https://arxiv.org/abs/2405.17631">ai agent for designing genetic perturbation experiments</a></td>
+      <td style="text-align:center; vertical-align:middle;">2024</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:middle;" rowspan="2">Usefulness</td>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2308.12014">From instructions</a><br><a href="https://arxiv.org/abs/2308.12014">to intrinsic human values - A survey of alignment goals for big</a><br><a href="https://arxiv.org/abs/2308.12014">models</a></td>
+      <td style="text-align:center; vertical-align:middle;">2023</td>
+      <td style="text-align:center; vertical-align:middle;">arXiv</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2410.02683">Dailydilemmas: Revealing value</a><br><a href="https://arxiv.org/abs/2410.02683">preferences of llms with quandaries of daily life</a></td>
+      <td style="text-align:center; vertical-align:middle;">2025</td>
+      <td style="text-align:center; vertical-align:top;">The ThirteenthInternational Conference on Learning Representations, ICLR 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 #### The Meso Level Principles of Values Alignment
 <table>
