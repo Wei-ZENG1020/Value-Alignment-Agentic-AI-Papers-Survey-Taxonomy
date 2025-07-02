@@ -354,9 +354,9 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
       <td style="text-align:center; vertical-align:middle;">C. A. of Sciences</td>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align:middle;">Standardization of ai ethical governance </td>
+      <td style="text-align:center; vertical-align:middle;"><a href="https://pmo81e9a1-pic21.websiteonline.cn/upload/8g4s.pdf">Standardization of ai ethical </a><br><a href="https://pmo81e9a1-pic21.websiteonline.cn/upload/8g4s.pdf">governance</a> </td>
       <td style="text-align:center; vertical-align:middle;">2023</td>
-      <td style="text-align:center; vertical-align:middle;">ational Artificial Intelligence StandardizationGeneral Group</td>
+      <td style="text-align:center; vertical-align:middle;">National Artificial Intelligence StandardizationGeneral Group</td>
     </tr>
     <tr>
       <td style="text-align:center; vertical-align:top;"><a href="https://arxiv.org/abs/2310.17551">Unpacking the ethical value</a><br><a href="https://arxiv.org/abs/2310.17551">alignment in big models</a></td>
