@@ -1327,5 +1327,5 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 
 
 ## Future Directions
-
+![](future-directions.png) 
 ![](takeaways-of-future-directions.png)
