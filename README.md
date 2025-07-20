@@ -479,7 +479,7 @@ We will continue to update both the [arXiv](https://arxiv.org/abs/2506.09656) pa
 ![](takeaways-of-value-principles.png)
 
 ### Agent System Application
-![](figure-classification-of-application.png)
+![](figure-classification-of-application.pdf)
 #### High Generaliability
 <table>
   <thead>
